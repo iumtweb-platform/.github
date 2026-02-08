@@ -1,4 +1,11 @@
-## Hi there 👋
+## IUMTWEB Platform
+### Developed by Alessio Bagno ([sekiganou](https://github.com/sekiganou))
+
+Piattoforma dedicata allo sviluppo del progetto per l'esame IUMTWEB, costituita dalle seguenti repository:
+1. repo1
+2. repo2
+3. repo3
+4. [...]
 
 <!--
 
